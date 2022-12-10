@@ -1,0 +1,16 @@
+{
+  "name" : "denah_api",
+  "version" : "0.1.0",
+  "description": "membantu mahasiswa mencari denah ruangan",
+  "main" : "app.js",
+
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "sixxkar",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "mysql": "^2.18.1"
+  }
+}
